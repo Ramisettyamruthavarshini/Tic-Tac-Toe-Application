@@ -1,2 +1,2 @@
-# PRODIGY_WD_03
+Tic-tac-toe Web Application : 
 This repository contains how to build a tic-tac-toe web application using HTML, CSS, and JavaScript.You can make an interesting and interactive game of tic tac toe by putting in place functions to manage user clicks, monitor game progress, and look for winning conditions. With the help of these features and technologies, players can compete with AI opponents or with one another, with the goal being to get three markers in a row to win.
